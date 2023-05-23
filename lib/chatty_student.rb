@@ -14,5 +14,3 @@ end
 
 cs = ChattyStudent.new
 puts cs.raise_hand
-
-binding.pry
